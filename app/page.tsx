@@ -15,16 +15,16 @@ export default function Home() {
           <h2 className="section-title">Spring Flowers</h2>
           <p>
           Is there anything better than seeing the first flowers of spring peeking out after a long, 
-          cold winter? Even when there&apos;s still snow on the ground, we&apos;re treated to early spring bloomers
+          cold winter? Even when there&quot;s still snow on the ground, we&quot;re treated to early spring bloomers
            like glory of the snow, snowdrops, and crocuses, reminding us all of the sunny days ahead. 
            Whether you choose annuals to replant each season or perennials that come back year after year,
             including a variety of spring flowers in your landscaping ideas will provide constant blooms 
             from early spring until the warmer days of summer arrive. The most important factor when planning
-             your garden is making sure you give your plants exactly what they need. To start, you&apos;ll 
-             want to clearly read the plant&apos;s label. Full sun means six or more hours of direct sunlight;
+             your garden is making sure you give your plants exactly what they need. To start, you&quot;ll 
+             want to clearly read the plant&quot;s label. Full sun means six or more hours of direct sunlight;
               part sun means about half of that. On the other hand, full shade means no direct sunlight or
                only a tiny bit of mild morning sun. Sun lovers will not bloom in shade, and shade lovers will
-                sizzle if you plant them in direct sun. Finally, make sure when you’re planting perennials
+                sizzle if you plant them in direct sun. Finally, make sure when you are planting perennials
                  that you choose those that can survive winters in your USDA hardiness zone. 
                  Before you start planning your garden with these beautiful spring flowers, make sure
                   you have the right gear first. Grab a pair of gardening gloves and gardening shoes 
@@ -42,7 +42,7 @@ export default function Home() {
            are used as ornamental plants. The Dutch crocuses are larger than the other cultivated crocus 
            species (e.g., Crocus chrysanthus). Depending on the year, Crocus vernus starts flowering about
             the same time or up to 2 weeks after Crocus chrysanthus (snow crocus) starts flowering. 
-            Height: 4–6" (10–15 cm).
+            Height: 4–6 (10–15 cm).
           </p>
         </div>
         <div className="column-half">
@@ -84,7 +84,7 @@ export default function Home() {
             <img className="avatar" src="/flower10.jpg" alt="flower10" />
             <h3 className="card-name">Columbine</h3>
             <p>
-            Columbine (Aquilegia), aka granny’s bonnet, is a perennial flower that blooms in the spring. 
+            Columbine (Aquilegia), aka granny&quot;s bonnet, is a perennial flower that blooms in the spring. 
             There are more than 70 species of columbines, including native columbines that grow wild in 
             mountain areas, along streambeds, and in temperate woodlands. The deep-blue columbine that grow
              as wildflowers in Colorado mountains are direct descendants of the earliest columbines.
