@@ -106,8 +106,8 @@ export default function Home() {
             <p>
             Hellebores, the Eurasian genus Helleborus consists of approximately 20 species of herbaceous or
              evergreen perennial flowering plants in the family Ranunculaceae, within which it gave its name 
-             to the tribe of Helleboreae. Despite names such as "winter rose", "Christmas rose" and "Lenten 
-             rose", hellebores are not closely related to the rose family (Rosaceae). Many hellebore species 
+             to the tribe of Helleboreae. Despite names such as &quot;winter rose&quot;, &quot;Christmas rose&quot; and &quot;Lenten 
+             rose&quot;, hellebores are not closely related to the rose family (Rosaceae). Many hellebore species 
              are poisonous.
             </p>
           </div>
