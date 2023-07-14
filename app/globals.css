@@ -44,7 +44,7 @@ footer {
   font-size: 28px;
   font-weight: 700;
   color: #ffffff;
-  background-color: #fd0202;
+  background-color: #c778e6;
   padding: 5px;
   border-radius: 4px;
 }
@@ -54,32 +54,34 @@ footer {
 }
 
 .navigation-link:hover {
-  color: #fd0202;
+  color: #c778e6;
 }
 
 .cover {
-  background-image: url('/intro-background.jpg');
+  background-image: url('/springflower.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 500px;
   padding: 20px;
-  text-align: right;
+  text-align: center;
+  
 }
 
 .title {
-  color: #fd0202;
+  color: #eff7f4;
   font-size: 90px;
 }
 
 .section-title {
   font-size: 50px;
-  color: #fd0202;
+  color: #c778e6;
+  text-align: center;
 }
 
 .card-name {
   font-size: 28px;
-  color: #fd0202;
+  color: #c778e6;
 }
 
 .columns {
@@ -92,8 +94,8 @@ footer {
 }
 
 .gallery-image {
-  width: 300px;
-  height: 300px;
+  width: 199px;
+  height: 199px;
   border-radius: 5px;
   object-fit: cover;
   margin: 10px;
@@ -118,7 +120,7 @@ footer {
   flex-direction: column;
   align-items: center;
   max-width: 300px;
-  border: 1px solid #fd0202;
+  border: 1px solid #c778e6;
   margin: 5px;
   padding: 5px;
   border-radius: 5px;
