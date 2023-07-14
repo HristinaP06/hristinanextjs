@@ -15,13 +15,13 @@ export default function Home() {
           <h2 className="section-title">Spring Flowers</h2>
           <p>
           Is there anything better than seeing the first flowers of spring peeking out after a long, 
-          cold winter? Even when there's still snow on the ground, we're treated to early spring bloomers
+          cold winter? Even when there&apos;s still snow on the ground, we&apos;re treated to early spring bloomers
            like glory of the snow, snowdrops, and crocuses, reminding us all of the sunny days ahead. 
            Whether you choose annuals to replant each season or perennials that come back year after year,
             including a variety of spring flowers in your landscaping ideas will provide constant blooms 
             from early spring until the warmer days of summer arrive. The most important factor when planning
-             your garden is making sure you give your plants exactly what they need. To start, you'll 
-             want to clearly read the plant's label. Full sun means six or more hours of direct sunlight;
+             your garden is making sure you give your plants exactly what they need. To start, you&apos;ll 
+             want to clearly read the plant&apos;s label. Full sun means six or more hours of direct sunlight;
               part sun means about half of that. On the other hand, full shade means no direct sunlight or
                only a tiny bit of mild morning sun. Sun lovers will not bloom in shade, and shade lovers will
                 sizzle if you plant them in direct sun. Finally, make sure when you’re planting perennials
